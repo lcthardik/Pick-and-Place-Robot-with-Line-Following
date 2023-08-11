@@ -6,3 +6,6 @@ This robot is based on ATmega2560. Due to the complexity of the task, all the pr
 Made in the year 2019
 
 [Youtube Link](https://youtu.be/kBSt59cCfKg)
+
+#### First Successful Test Run
+![](https://github.com/lcthardik/Pick-and-Place-Robot-with-Line-Following/blob/main/gif.gif)
